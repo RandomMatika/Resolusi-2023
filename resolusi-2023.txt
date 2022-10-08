@@ -3,4 +3,5 @@ RESOLUSI KU
 -belajar dart & flutter
 -udah bisa make GIT
 -belajar affilate marketing
+-belajar algoritma & struktur data dasar
 coba bikin yt& tt
