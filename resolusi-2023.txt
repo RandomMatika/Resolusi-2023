@@ -1,7 +1,10 @@
 RESOLUSI KU
 
 -belajar dart & flutter
+  -belajar dart frog
+  -belajar angular dart
 -udah bisa make GIT
 -belajar affilate marketing
--belajar algoritma & struktur data dasar
+-belajar ui design
+-belajar PHP
 coba bikin yt& tt
