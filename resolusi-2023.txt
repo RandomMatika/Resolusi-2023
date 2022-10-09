@@ -1,8 +1,9 @@
 RESOLUSI KU
 
 -belajar dart & flutter
-  -belajar dart frog
-  -belajar angular dart
+  -belajar framework dart lainnya
+  -belajar state management
+  -belajar SQL
 -udah bisa make GIT
 -belajar affilate marketing
 -belajar ui design
