@@ -1,6 +1,9 @@
 RESOLUSI KU
 
 -belajar dart & flutter
+  -belajar framework dart lainnya
+  -belajar state management
+  -belajar SQL
 -udah bisa make GIT
 -belajar affilate marketing
 -belajar algoritma & struktur data dasar
