@@ -6,5 +6,6 @@ RESOLUSI KU
   -belajar SQL
 -udah bisa make GIT
 -belajar affilate marketing
--belajar algoritma & struktur data dasar
-coba bikin yt& tt
+-belajar ui design
+-belajar PHP
+coba bikin yt& tiktok
