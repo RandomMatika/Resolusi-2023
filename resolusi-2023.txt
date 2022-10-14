@@ -3,6 +3,9 @@ RESOLUSI KU
 -belajar dart & flutter
   -belajar framework dart lainnya
   -belajar state management
+  -belajar API
+  -belajar Responsive design
+  
 -udah bisa make GIT
 -belajar affilate marketing
 -belajar ui design
