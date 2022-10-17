@@ -3,6 +3,8 @@ RESOLUSI KU
 -belajar dart & flutter
   -belajar framework dart lainnya
   -belajar state management
+  -belajar inherited widget
+  -memperdalam oop
   -belajar API
   -belajar Responsive design
   
